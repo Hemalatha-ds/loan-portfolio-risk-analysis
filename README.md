@@ -117,7 +117,7 @@ Developed a complete risk analytics solution that enables monitoring of loan por
 
 ## 📷 Dashboard Preview
 
-
+![Loan Dashboard](loan_dashboard.png)
 
 ---
 
