@@ -2,7 +2,7 @@
 
 ## 🔍 Project Overview
 
-This project analyzes a simulated personal loan portfolio to evaluate credit risk, identify delinquency patterns, and support data-driven lending decisions. The analysis is built using Python, SQL, and Power BI, focusing on Days Past Due (DPD) as the key risk metric.
+Identified ~13.5% default rate and key high-risk borrower segments based on credit score and income analysis. This project analyzes a simulated personal loan portfolio to evaluate credit risk, identify delinquency patterns, and support data-driven lending decisions. The analysis is built using Python, SQL, and Power BI, focusing on Days Past Due (DPD) as the key risk metric.
 
 ---
 
